@@ -7,5 +7,6 @@
 <body>
     <h1>Accueil</h1>
     Utilisation de Git
+    un test de modification
 </body>
 </html>
