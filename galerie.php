@@ -5,9 +5,7 @@
     <title>Contact</title>
 </head>
 <body>
-    <h1>Liste des contact</h1>
-    Un commentaire
-
-    ajouter ou modifier
+    <h1>Galerie</h1>
+   galerie de photo
 </body>
 </html>
